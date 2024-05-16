@@ -1,0 +1,2 @@
+# news-getter
+News Getter
